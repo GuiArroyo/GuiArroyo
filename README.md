@@ -2,6 +2,7 @@
 
 **GuiArroyo/GuiArroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## About Me
 - 🔭 I’m currently working on developing interactive web applications and improving my skills in JavaScript and React.
 - 🌱 I’m currently learning about advanced JavaScript concepts, Node.js, exploring various front-end frameworks and back-end.
 - 👯 I try to collaborate on projects that involve web development, especially those with interesting challenges or innovative features, which bring me together and I can help others.

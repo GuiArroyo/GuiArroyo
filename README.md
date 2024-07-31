@@ -25,4 +25,5 @@ I'm Guilherme D. Arroyo, a passionate Web Developer with a strong focus on front
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about exploring new technologies and tackling complex problems, and I'm always eager to learn and grow in the field of web development!
+- Feel free to reach out if you're interested in collaborating on a project, discussing web development, or exchanging ideas about the latest technologies. I'm always eager to connect with fellow developers and explore new opportunities for learning and growth! 
 

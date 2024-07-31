@@ -21,7 +21,8 @@ I'm Guilherme D. Arroyo, a passionate Web Developer with a strong focus on front
 
 ## Let's Connect!
 
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-arroyo-094527146/) or email me at [your.email@example.com](mailto:your.email@example.com).
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-arroyo-094527146/) or email me at [guilermedias.gd@gmail.com](mailto:guilermedias.gd@gmail.com).
+
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new technologies and creating innovative solutions to complex problems!
+- ⚡ Fun fact: I'm passionate about exploring new technologies and tackling complex problems, and I'm always eager to learn and grow in the field of web development!
 

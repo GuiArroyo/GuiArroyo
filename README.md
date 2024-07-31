@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **GuiArroyo/GuiArroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on developing interactive web applications and improving my skills in JavaScript and React.
@@ -11,4 +10,4 @@
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-arroyo-094527146/) or email me at [your.email@example.com](mailto:your.email@example.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies and creating innovative solutions to complex problems!
--->
+
